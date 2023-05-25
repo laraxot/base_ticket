@@ -1,0 +1,62 @@
+[submodule "public_html/noconsole"]
+	path = public_html/noconsole
+	url = https://github.com/laraxot/noconsole.git
+
+[submodule "bashscripts"]
+	path = bashscripts
+	url = https://github.com/laraxot/bashscripts.git
+
+#modules
+[submodule "laravel/Modules/Blog"]
+	path = laravel/Modules/Blog
+	url = https://github.com/laraxot/module_blog.git
+[submodule "laravel/Modules/LU"]
+	path = laravel/Modules/LU
+	url = https://github.com/laraxot/module_lu.git
+[submodule "laravel/Modules/Xot"]
+	path = laravel/Modules/Xot
+	url = https://github.com/laraxot/module_xot.git
+[submodule "laravel/Modules/Geo"]
+	path = laravel/Modules/Geo
+	url = https://github.com/laraxot/module_geo.git
+[submodule "laravel/Modules/Tenant"]
+	path = laravel/Modules/Tenant
+	url = https://github.com/laraxot/module_tenant.git
+[submodule "laravel/Modules/Rating"]
+	path = laravel/Modules/Rating
+	url = https://github.com/laraxot/module_rating.git
+[submodule "laravel/Modules/Tag"]
+	path = laravel/Modules/Tag
+	url = https://github.com/laraxot/module_tag.git
+[submodule "laravel/Modules/Ticket"]
+	path = laravel/Modules/Ticket
+	url = https://github.com/laraxot/module_ticket.git
+[submodule "laravel/Modules/Cms"]
+	path = laravel/Modules/Cms
+	url = https://github.com/laraxot/module_cms.git
+[submodule "laravel/Modules/Lang"]
+	path = laravel/Modules/Lang
+	url = https://github.com/laraxot/module_lang.git
+[submodule "laravel/Modules/UI"]
+	path = laravel/Modules/UI
+	url = http://github.com/laraxot/module_ui.git
+[submodule "laravel/Modules/Notify"]
+	path = laravel/Modules/Notify
+	url = http://github.com/laraxot/module_notify.git
+[submodule "laravel/Modules/Comment"]
+	path = laravel/Modules/Comment
+	url = https://github.com/laraxot/module_comment.git
+[submodule "laravel/Modules/Wire"]
+	path = laravel/Modules/Wire
+	url = http://github.com/laraxot/module_wire.git
+	
+#themes
+[submodule "laravel/Themes/BsItalia"]
+	path = laravel/Themes/BsItalia
+	url = https://github.com/laraxot/theme_bsitalia.git
+[submodule "laravel/Themes/AdminLTE"]
+	path = laravel/Themes/AdminLTE
+	url = https://github.com/laraxot/theme_adminlte.git
+
+
+
